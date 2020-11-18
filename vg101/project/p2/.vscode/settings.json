@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cstdio": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "string": "cpp"
+    },
+    "todo-tree.tree.showBadges": false
+}
